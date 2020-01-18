@@ -1,0 +1,7 @@
+com.motorola.motocit.display.testPatterns.WhiteWithBlackBorder
+com.motorola.motocit.fingerprint.FingerPrintTest
+com.motorola.motocit.vibrator.VibratorTest
+com.motorola.motocit.capsense.CapsenseMul
+com.motorola.motocit.hostmode.Hostmode
+com.motorola.motocit.usb.UsbTypeC
+com.motorola.motocit.key.KeyTest
